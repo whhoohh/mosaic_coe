@@ -6,7 +6,7 @@ A unified, AI-native platform for MSMEs, academia, and grassroots businesses —
 
 ## 🚀 Project Overview
 
-MosaicX is a modular, extensible platform designed to onboard users of all backgrounds (from hobby learners to professional B2B teams and farmers) into the world of AI, automation, and data-driven workflows. It features persona-driven onboarding, dynamic dashboard routing, and a Build Studio that aggregates and manages AI credits and integrations.
+MosaicX is a modular, extensible platform designed to onboard users of all backgrounds (from hobby learners to professional B2B teams and all data farmers) into the world of AI, automation, and data-driven workflows. It features persona-driven onboarding, dynamic dashboard routing, and a Build Studio that aggregates and manages AI development and integrations.
 
 ---
 
@@ -14,7 +14,7 @@ MosaicX is a modular, extensible platform designed to onboard users of all backg
 
 - **Persona-Based Onboarding**
   - On first login, users are guided through a modal onboarding flow.
-  - Persona detection (Hobby Learner, Developer, Project Manager, Farmer, Admin) via a short survey.
+  - Persona detection (Hobby Learner, Developer, Project Manager, Data Farmer, Admin) via a short survey.
   - User profile and persona stored in Supabase/Postgres.
   - Backend FastAPI endpoint `/api/onboarding/analyze-persona` determines persona and dashboard routing.
 
@@ -184,7 +184,7 @@ Pull requests welcome! Please open issues for bugs or feature requests.
 
 ## 📄 License
 
-[MIT](LICENSE) (or specify your license here)
+[MIT](LICENSE) 
 
 ---
 
